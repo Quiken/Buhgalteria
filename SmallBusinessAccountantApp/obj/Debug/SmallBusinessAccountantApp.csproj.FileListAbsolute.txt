@@ -1,0 +1,29 @@
+C:\Users\Max\source\repos\SmallBusinessAccountantApp\SmallBusinessAccountantApp\bin\Debug\AppData\SBA.mdf
+C:\Users\Max\source\repos\SmallBusinessAccountantApp\SmallBusinessAccountantApp\bin\Debug\AppData\SBA_log.ldf
+C:\Users\Max\source\repos\SmallBusinessAccountantApp\SmallBusinessAccountantApp\bin\Debug\SmallBusinessAccountantApp.exe.config
+C:\Users\Max\source\repos\SmallBusinessAccountantApp\SmallBusinessAccountantApp\bin\Debug\SmallBusinessAccountantApp.exe
+C:\Users\Max\source\repos\SmallBusinessAccountantApp\SmallBusinessAccountantApp\bin\Debug\SmallBusinessAccountantApp.pdb
+C:\Users\Max\source\repos\SmallBusinessAccountantApp\SmallBusinessAccountantApp\obj\Debug\SmallBusinessAccountantApp.csproj.AssemblyReference.cache
+C:\Users\Max\source\repos\SmallBusinessAccountantApp\SmallBusinessAccountantApp\obj\Debug\SmallBusinessAccountantApp.MainForm.resources
+C:\Users\Max\source\repos\SmallBusinessAccountantApp\SmallBusinessAccountantApp\obj\Debug\SmallBusinessAccountantApp.PenaltiesForm.resources
+C:\Users\Max\source\repos\SmallBusinessAccountantApp\SmallBusinessAccountantApp\obj\Debug\SmallBusinessAccountantApp.PromotionsForm.resources
+C:\Users\Max\source\repos\SmallBusinessAccountantApp\SmallBusinessAccountantApp\obj\Debug\SmallBusinessAccountantApp.Properties.Resources.resources
+C:\Users\Max\source\repos\SmallBusinessAccountantApp\SmallBusinessAccountantApp\obj\Debug\SmallBusinessAccountantApp.csproj.GenerateResource.cache
+C:\Users\Max\source\repos\SmallBusinessAccountantApp\SmallBusinessAccountantApp\obj\Debug\SmallBusinessAccountantApp.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\SmallBusinessAccountantApp\SmallBusinessAccountantApp\obj\Debug\SmallBusinessAccountantApp.exe
+C:\Users\Max\source\repos\SmallBusinessAccountantApp\SmallBusinessAccountantApp\obj\Debug\SmallBusinessAccountantApp.pdb
+D:\загрузки\Курсовая по прикладному программированию. 05.12.22\Приложение\Исходный код\SmallBusinessAccountantApp\bin\Debug\AppData\SBA.mdf
+D:\загрузки\Курсовая по прикладному программированию. 05.12.22\Приложение\Исходный код\SmallBusinessAccountantApp\bin\Debug\AppData\SBA_log.ldf
+D:\загрузки\Курсовая по прикладному программированию. 05.12.22\Приложение\Исходный код\SmallBusinessAccountantApp\bin\Debug\SmallBusinessAccountantApp.exe.config
+D:\загрузки\Курсовая по прикладному программированию. 05.12.22\Приложение\Исходный код\SmallBusinessAccountantApp\bin\Debug\SmallBusinessAccountantApp.exe
+D:\загрузки\Курсовая по прикладному программированию. 05.12.22\Приложение\Исходный код\SmallBusinessAccountantApp\bin\Debug\SmallBusinessAccountantApp.pdb
+D:\загрузки\Курсовая по прикладному программированию. 05.12.22\Приложение\Исходный код\SmallBusinessAccountantApp\obj\Debug\SmallBusinessAccountantApp.csproj.AssemblyReference.cache
+D:\загрузки\Курсовая по прикладному программированию. 05.12.22\Приложение\Исходный код\SmallBusinessAccountantApp\obj\Debug\SmallBusinessAccountantApp.csproj.SuggestedBindingRedirects.cache
+D:\загрузки\Курсовая по прикладному программированию. 05.12.22\Приложение\Исходный код\SmallBusinessAccountantApp\obj\Debug\SmallBusinessAccountantApp.MainForm.resources
+D:\загрузки\Курсовая по прикладному программированию. 05.12.22\Приложение\Исходный код\SmallBusinessAccountantApp\obj\Debug\SmallBusinessAccountantApp.PenaltiesForm.resources
+D:\загрузки\Курсовая по прикладному программированию. 05.12.22\Приложение\Исходный код\SmallBusinessAccountantApp\obj\Debug\SmallBusinessAccountantApp.PromotionsForm.resources
+D:\загрузки\Курсовая по прикладному программированию. 05.12.22\Приложение\Исходный код\SmallBusinessAccountantApp\obj\Debug\SmallBusinessAccountantApp.Properties.Resources.resources
+D:\загрузки\Курсовая по прикладному программированию. 05.12.22\Приложение\Исходный код\SmallBusinessAccountantApp\obj\Debug\SmallBusinessAccountantApp.csproj.GenerateResource.cache
+D:\загрузки\Курсовая по прикладному программированию. 05.12.22\Приложение\Исходный код\SmallBusinessAccountantApp\obj\Debug\SmallBusinessAccountantApp.csproj.CoreCompileInputs.cache
+D:\загрузки\Курсовая по прикладному программированию. 05.12.22\Приложение\Исходный код\SmallBusinessAccountantApp\obj\Debug\SmallBusinessAccountantApp.exe
+D:\загрузки\Курсовая по прикладному программированию. 05.12.22\Приложение\Исходный код\SmallBusinessAccountantApp\obj\Debug\SmallBusinessAccountantApp.pdb
